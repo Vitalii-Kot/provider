@@ -1,0 +1,296 @@
+Uri: https://i-c-n.ru/
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\index.htm
+Content Type: text/html
+
+Uri: https://i-c-n.ru/tpl/img/mainblock-index-img.jpg
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\img\mainblock-index-img.jpg
+Content Type: image/jpeg
+
+Uri: https://i-c-n.ru/tpl/bootstrap/css/bootstrap.css
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\bootstrap\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://i-c-n.ru/tpl/slick/slick.css
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\slick\slick.css
+Content Type: text/css
+
+Uri: https://i-c-n.ru/tpl/css/screen.css
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\css\screen.css
+Content Type: text/css
+
+Uri: https://i-c-n.ru/assets/basetemplate/css/style.css
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\assets\basetemplate\css\style.css
+Content Type: text/css
+
+Uri: https://i-c-n.ru/assets/components/gl/css/web/default.css
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\assets\components\gl\css\web\default.css
+Content Type: text/css
+
+Uri: https://i-c-n.ru/assets/components/ajaxform/css/default.css
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\assets\components\ajaxform\css\default.css
+Content Type: text/css
+
+Uri: https://i-c-n.ru/o-kompanii/
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\o-kompanii\index.htm
+Content Type: text/html
+
+Uri: https://i-c-n.ru/korporativnyim-klientam.html
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\korporativnyim-klientam.html
+Content Type: text/html
+
+Uri: https://i-c-n.ru/akczii/
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\akczii\index.htm
+Content Type: text/html
+
+Uri: https://i-c-n.ru/tex-podderzhka/
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tex-podderzhka\index.htm
+Content Type: text/html
+
+Uri: https://i-c-n.ru/g-anapa.html
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\g-anapa.html
+Content Type: text/html
+
+Uri: https://i-c-n.ru/televidenie/
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\televidenie\index.htm
+Content Type: text/html
+
+Uri: https://i-c-n.ru/telefoniya.html
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\telefoniya.html
+Content Type: text/html
+
+Uri: https://i-c-n.ru/rostov-na-donu.html
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\rostov-na-donu.html
+Content Type: text/html
+
+Uri: https://i-c-n.ru/techno-raboti.html
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\techno-raboti.html
+Content Type: text/html
+
+Uri: https://i-c-n.ru/rabota-sms-opoveshheniya.html
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\rabota-sms-opoveshheniya.html
+Content Type: text/html
+
+Uri: https://i-c-n.ru/abinsk.html
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\abinsk.html
+Content Type: text/html
+
+Uri: https://i-c-n.ru/vnimanienesk.html
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\vnimanienesk.html
+Content Type: text/html
+
+Uri: https://i-c-n.ru/internet-dlya-dolzhnikov.html
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\internet-dlya-dolzhnikov.html
+Content Type: text/html
+
+Uri: https://i-c-n.ru/tpl/img/logo.png
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\img\logo.png
+Content Type: image/png
+
+Uri: https://i-c-n.ru/upload/services/service-1.png
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\upload\services\service-1.png
+Content Type: image/png
+
+Uri: https://i-c-n.ru/upload/services/service-2.png
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\upload\services\service-2.png
+Content Type: image/png
+
+Uri: https://i-c-n.ru/upload/services/service-3.png
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\upload\services\service-3.png
+Content Type: image/png
+
+Uri: https://i-c-n.ru/assets/cache_image/upload/images/jPMaheqlLlw_270x190_836.jpg
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\assets\cache_image\upload\images\jPMaheqlLlw_270x190_836.jpg
+Content Type: image/jpeg
+
+Uri: https://i-c-n.ru/assets/cache_image/upload/images/WhatsApp Image 2020-09-22 at 13.33.20_270x190_51f.jpeg
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\assets\cache_image\upload\images\WhatsApp Image 2020-09-22 at 13.33.20_270x190_51f.jpeg
+Content Type: image/jpeg
+
+Uri: https://i-c-n.ru/assets/cache_image/upload/images/1 Nz1wlsYreR9NuQUSRmGYSg_270x190_51f.jpeg
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\assets\cache_image\upload\images\1 Nz1wlsYreR9NuQUSRmGYSg_270x190_51f.jpeg
+Content Type: image/jpeg
+
+Uri: https://i-c-n.ru/assets/cache_image/upload/images/Переезд_270x190_836.jpg
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\assets\cache_image\upload\images\Переезд_270x190_836.jpg
+Content Type: image/jpeg
+
+Uri: https://i-c-n.ru/tpl/img/logo-footer.png
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\img\logo-footer.png
+Content Type: image/png
+
+Uri: https://i-c-n.ru/tpl/js/jquery.js
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://i-c-n.ru/tpl/bootstrap/js/bootstrap.js
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\bootstrap\js\bootstrap.js
+Content Type: application/javascript
+
+Uri: https://i-c-n.ru/tpl/slick/slick.min.js
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://i-c-n.ru/tpl/js/inputmask.bundle.js
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\js\inputmask.bundle.js
+Content Type: application/javascript
+
+Uri: https://i-c-n.ru/tpl/js/scripts.js
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://i-c-n.ru/assets/components/gl/js/web/default.js
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\assets\components\gl\js\web\default.js
+Content Type: application/javascript
+
+Uri: https://i-c-n.ru/assets/components/ajaxform/js/default.js
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\assets\components\ajaxform\js\default.js
+Content Type: application/javascript
+
+Uri: https://i-c-n.ru/tpl/bootstrap/fonts/glyphicons-halflings-regular.eot
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\bootstrap\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://i-c-n.ru/tpl/bootstrap/fonts/glyphicons-halflings-regular.eot?
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\bootstrap\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://i-c-n.ru/tpl/bootstrap/fonts/glyphicons-halflings-regular.woff2
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\bootstrap\fonts\glyphicons-halflings-regular.txt
+Content Type: text/plain
+
+Uri: https://i-c-n.ru/tpl/bootstrap/fonts/glyphicons-halflings-regular.woff
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\bootstrap\fonts\glyphicons-halflings-regular.woff
+Content Type: application/x-font-woff
+
+Uri: https://i-c-n.ru/tpl/bootstrap/fonts/glyphicons-halflings-regular.ttf
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\bootstrap\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://i-c-n.ru/tpl/bootstrap/fonts/glyphicons-halflings-regular.svg
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\bootstrap\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://i-c-n.ru/tpl/css/fonts/Segoe-UI-Regular.eot
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\css\fonts\Segoe-UI-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://i-c-n.ru/tpl/css/fonts/Segoe-UI-Regular.eot?
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\css\fonts\Segoe-UI-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://i-c-n.ru/tpl/css/fonts/Segoe-UI-Regular.woff
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\css\fonts\Segoe-UI-Regular.woff
+Content Type: application/x-font-woff
+
+Uri: https://i-c-n.ru/tpl/css/fonts/Segoe-UI-Regular.ttf
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\css\fonts\Segoe-UI-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://i-c-n.ru/tpl/css/fonts/Segoe-UI-Bold.eot
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\css\fonts\Segoe-UI-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://i-c-n.ru/tpl/css/fonts/Segoe-UI-Bold.eot?
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\css\fonts\Segoe-UI-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://i-c-n.ru/tpl/css/fonts/Segoe-UI-Bold.woff
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\css\fonts\Segoe-UI-Bold.woff
+Content Type: application/x-font-woff
+
+Uri: https://i-c-n.ru/tpl/css/fonts/Segoe-UI-Bold.ttf
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\css\fonts\Segoe-UI-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://i-c-n.ru/tpl/img/icons-s9c74219f6a.png
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\img\icons-s9c74219f6a.png
+Content Type: image/png
+
+Uri: https://i-c-n.ru/tpl/img/icons/user.png
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\img\icons\user.png
+Content Type: image/png
+
+Uri: https://i-c-n.ru/tpl/img/hand-1.png
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\img\hand-1.png
+Content Type: image/png
+
+Uri: https://i-c-n.ru/tpl/img/hand-2.png
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\img\hand-2.png
+Content Type: image/png
+
+Uri: https://i-c-n.ru/tpl/img/icons/rub.png
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\img\icons\rub.png
+Content Type: image/png
+
+Uri: https://i-c-n.ru/tpl/img/icons/close.png
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\img\icons\close.png
+Content Type: image/png
+
+Uri: https://i-c-n.ru/assets/components/ajaxform/css/lib/jquery.jgrowl.min.css
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\assets\components\ajaxform\css\lib\jquery.jgrowl.min.css
+Content Type: text/css
+
+Uri: https://i-c-n.ru/assets/cache_image/upload/images/mainblock-img_1170x375_3ac.jpg
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\assets\cache_image\upload\images\mainblock-img_1170x375_3ac.jpg
+Content Type: image/jpeg
+
+Uri: https://i-c-n.ru/tpl/img/mainblock-index-img-2.jpg
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\tpl\img\mainblock-index-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i-c-n.ru/assets/cache_image/upload/images/smotreshka_tv_1170x375_580.png
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\assets\cache_image\upload\images\smotreshka_tv_1170x375_580.png
+Content Type: image/png
+
+Uri: https://i-c-n.ru/assets/cache_image/noimage_1170x375_3ac.jpg
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\assets\cache_image\noimage_1170x375_3ac.jpg
+Content Type: image/jpeg
+
+Uri: https://i-c-n.ru/assets/cache_image/upload/images/mainblock-index-img_1170x375_3ac.jpg
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\assets\cache_image\upload\images\mainblock-index-img_1170x375_3ac.jpg
+Content Type: image/jpeg
+
+Uri: https://i-c-n.ru/upload/images/jPMaheqlLlw.jpg
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\upload\images\jPMaheqlLlw.jpg
+Content Type: image/jpeg
+
+Uri: https://i-c-n.ru/upload/images/1 Nz1wlsYreR9NuQUSRmGYSg.jpeg
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\upload\images\1 Nz1wlsYreR9NuQUSRmGYSg.jpeg
+Content Type: image/jpeg
+
+Uri: https://i-c-n.ru/upload/images/WhatsApp Image 2020-09-22 at 13.33.20.jpeg
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\upload\images\WhatsApp Image 2020-09-22 at 13.33.20.jpeg
+Content Type: image/jpeg
+
+Uri: https://i-c-n.ru/upload/WhatsApp Image 2020-09-21 at 11.38.40.jpeg
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\upload\WhatsApp Image 2020-09-21 at 11.38.40.jpeg
+Content Type: image/jpeg
+
+Uri: https://i-c-n.ru/instrukczii/
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\instrukczii\index.htm
+Content Type: text/html
+
+Uri: https://i-c-n.ru/upload/doc/doc04107820200914114202.pdf
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\upload\doc\doc04107820200914114202.pdf
+Content Type: application/pdf
+
+Uri: https://i-c-n.ru/upload/doc/doc04107920200914114242.pdf
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\upload\doc\doc04107920200914114242.pdf
+Content Type: application/pdf
+
+Uri: https://i-c-n.ru/upload/doc/instr_wi-fi_eltex_ntp.pdf
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\upload\doc\instr_wi-fi_eltex_ntp.pdf
+Content Type: application/pdf
+
+Uri: https://i-c-n.ru/upload/doc/instr_eltex_nte.pdf
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\upload\doc\instr_eltex_nte.pdf
+Content Type: application/pdf
+
+Uri: https://i-c-n.ru/upload/doc/Manual-Tenda1200AC-for-clients.pdf
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\upload\doc\Manual-Tenda1200AC-for-clients.pdf
+Content Type: application/pdf
+
+Uri: https://i-c-n.ru/upload/doc/Manual-IP-TV-for-clients.pdf
+File Name: D:\2021-PROGRAMING\Новая папка\23\i-c-n.ru\upload\doc\Manual-IP-TV-for-clients.pdf
+Content Type: application/pdf
+
